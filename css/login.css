@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+  }
+  footer {
+    background:#0079be;
+    background-repeat: no-repeat;
+    background-position: center top;
+    bottom: 2px;
+    color:#fff;
+    height:50px; 
+    line-height: 50px;
+    margin-top:50px;
+    position: fixed;
+    text-align:center;
+    width: 100%;
+  }  
