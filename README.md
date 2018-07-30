@@ -11,13 +11,6 @@ A user can do the following:
 
 The application is developed with HTML, CSS and Javascript for Frontend 
 
-### Installation
-Clone the project repository
-
-- Run git clone https://github.com/UggoPrince/more-recipes.git
-
-more info: (https://help.github.com/articles/cloning-a-repository/)
-
 ### Technologies Used
 
 - JavaScript (ES6) (http://es6-features.org/)
