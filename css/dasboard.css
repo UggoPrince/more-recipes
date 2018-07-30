@@ -1,0 +1,29 @@
+.row {
+    margin: 20px auto;
+}
+.navbar {
+    width: 100%;  
+    background-color: #0079be;
+    color: white;
+  }
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: cyan;
+}
+.banner {
+    text-align: center;
+    padding: 5%;
+}
+.card:hover {
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,0.2);
+}
+.card-img-top {
+    height: 100px;
+    width: 100%;
+    max-width: 285px;
+}
+.btn {
+    background-color: #0079be;
+}
